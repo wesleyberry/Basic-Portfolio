@@ -1,0 +1,152 @@
+.titlemain {
+    color:white;
+    background-color:#4aaaa5;
+    border-color:#cccccc;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    padding: 20px;
+    width: 220px;
+    margin-left: 186px;
+}
+
+.special {
+    color:#777777;
+}
+
+.diver {
+    padding-top: 0px;
+    padding-left: 50px;
+    padding-left: 50px;
+    padding-bottom: 20px;
+    color: #dddddd;
+    background-color: #ffffff;
+}
+
+.aboutme {
+    color: #4aaaa5;
+    margin-left: 50px;
+    padding-top: 20px;
+}
+
+.mainbody {
+    padding-top: 10px;
+    background-image: url("../images/dynamic-style/dynamic-style.png");
+    height: 600px;
+}
+
+.mainbodycontact {
+    padding-top: 10px;
+    background-image: url("../images/dynamic-style/dynamic-style.png");
+    height: 600px;
+}
+
+.mainbodyport {
+    padding-top: 10px;
+    background-image: url("../images/dynamic-style/dynamic-style.png");
+    height: 1100px;
+}
+
+.container {
+    background-color: white;
+    width: 960px;
+    padding-bottom: 20px;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.footerdata {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 50px;
+    background-color: #666666;
+    text-align: center;
+    border-top: 8px;
+    border-top-width: 100%;
+    border-top-style: solid;
+    border-color: #4aaaa5;
+}
+
+.bar {
+    color: #666666;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.pstyle {
+    color: black;
+    padding-right: 30px;
+    line-height: 1.5;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+.header2 {
+    float: right;
+    display: inline;
+    margin-top: 50px;
+    margin-right: 190px;
+    padding-right: 20px;
+}
+
+.headermain {
+    background-color: white;
+    height: 98px;
+    width: 100%;
+}
+
+.forbutton {
+    color: white;
+    background-color: #4aaaa5;
+    width: 150px;
+    height: 50px;
+}
+
+.forinput {
+    padding-top: 10px;
+    color: black;
+    line-height: 2;
+}
+
+.forbutton2 {
+    background-color: white;
+    border: none;
+    color: #666666;
+    padding-bottom: 5px;
+    padding-left: 7px;
+    padding-right: 7px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.portimg {
+    height: 28%;
+    width: 28%;
+    padding-left: 50px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    margin-right: 20px;
+}
+
+.centeranimal {
+    transform: translate(-49%, -200%);
+    font-size: 24px;
+    color:white;
+    background-color: #4aaaa5;
+    width: 270px;
+    height: 30px;
+    text-align: center;
+    padding-top: 5px;
+    margin-left: 182px;
+
+}
+
+.firstrow {
+    display: grid;
+    justify-content: start;
+    grid-template-columns: 300px 300px;
+    grid-template-rows: 300px 300px;
+}
