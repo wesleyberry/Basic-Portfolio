@@ -183,10 +183,8 @@ body {
 }
 
 @media (min-width: 1400px) {
-    .mainbody
-    .mainbodycontact
-    .mainbodyport
-     {   
+    body
+    {   
         height: 1100px;
     }
   }
