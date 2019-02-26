@@ -181,13 +181,13 @@
     grid-template-rows: 300px 300px;
 }
 
-body {
+html, body {
     height: 100%;
 }
 
-@media (min-width: 1400px) {
+/* @media (min-width: 1400px) {
     body
     {   
         height: 1100px;
     }
-  }
+  } */
