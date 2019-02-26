@@ -31,7 +31,6 @@
     padding-top: 10px;
     background-image: url("../images/dynamic-style/dynamic-style.png");
     height: 100%;
-    min-height: 700px;
 }
 
 .mainbodycontact {
@@ -44,7 +43,6 @@
     padding-top: 10px;
     background-image: url("../images/dynamic-style/dynamic-style.png");
     height: 100%;
-    min-height: 700px;
 }
 
 .container {
@@ -183,3 +181,12 @@
 body {
     height: 100%;
 }
+
+@media (min-width: 1400px) {
+    .mainbody
+    .mainbodycontact
+    .mainbodyport
+     {   
+        height: 1100px;
+    }
+  }
