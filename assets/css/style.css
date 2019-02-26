@@ -30,26 +30,26 @@
 .mainbody {
     padding-top: 10px;
     background-image: url("../images/dynamic-style/dynamic-style.png");
-    background-size: auto;
+    height: 100%;
 }
 
 .mainbodycontact {
     padding-top: 10px;
     background-image: url("../images/dynamic-style/dynamic-style.png");
-    background-size: auto;
+    height: 100%;
 }
 
 .mainbodyport {
     padding-top: 10px;
     background-image: url("../images/dynamic-style/dynamic-style.png");
-    background-size: auto;
+    height: 100%;
 }
 
 .container {
     background-color: white;
     width: 960px;
     padding-bottom: 20px;
-    margin-bottom: auto;
+    margin-bottom: 100px;
     margin-left: auto;
     margin-right: auto;
 }
