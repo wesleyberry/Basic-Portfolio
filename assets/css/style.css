@@ -30,23 +30,19 @@
 .mainbody {
     padding-top: 10px;
     background-image: url("../images/dynamic-style/dynamic-style.png");
-    height: 600px;
+    background-size: auto;
 }
 
 .mainbodycontact {
     padding-top: 10px;
     background-image: url("../images/dynamic-style/dynamic-style.png");
-    height: 600px;
+    background-size: auto;
 }
 
 .mainbodyport {
     padding-top: 10px;
     background-image: url("../images/dynamic-style/dynamic-style.png");
-    height: 1100px;
-}
-
-p {
-    
+    background-size: auto;
 }
 
 .container {
